@@ -6,7 +6,7 @@
 1 Attrition
 1 Austere Command
 1 Battlefield Forge
-1 Blighted Fen
+1 Tectonic Edge
 1 Blood Artist
 1 Bloodstained Mire
 1 Bojuka Bog
@@ -23,7 +23,7 @@
 1 Daretti, Ingenious Iconoclast
 1 Decree of Pain
 1 Dictate of Erebos
-1 Dimir House Guard
+1 Debt of Loyalty
 1 Doomed Necromancer
 1 Dragonskull Summit
 1 Elspeth, Sun's Champion
@@ -78,7 +78,7 @@
 1 Temple of Silence
 1 Temple of Triumph
 1 Temple of the False God
-1 Terminate
+1 Anguished Unmaking
 1 Urborg, Tomb of Yawgmoth
 1 Utter End
 1 Vampire Hexmage
